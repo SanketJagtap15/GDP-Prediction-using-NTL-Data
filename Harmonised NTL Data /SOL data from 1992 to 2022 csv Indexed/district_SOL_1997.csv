@@ -1,0 +1,677 @@
+,NAME_2,Sum_of_Lights_1997
+0,Nicobar Islands,553.0
+1,North and Middle Andaman,566.0
+2,South Andaman,2699.0
+3,Anantapur,77474.0
+4,Chittoor,79190.0
+5,East Godavari,56469.0
+6,Guntur,61457.0
+7,Krishna,62024.0
+8,Kurnool,59618.0
+9,Nellore,56488.0
+10,Prakasam,42744.0
+11,Srikakulam,28706.0
+12,Visakhapatnam,37963.0
+13,Vizianagaram,21910.0
+14,West Godavari,46445.0
+15,Y.S.R.,42964.0
+16,Anjaw,0.0
+17,Anjaw,0.0
+18,Changlang,2037.0
+19,Dibang Valley,0.0
+20,East Kameng,4.0
+21,East Siang,70.0
+22,East Siang,90.0
+23,Kurung Kumey,0.0
+24,Lohit,126.0
+25,Lohit,0.0
+26,Longding,0.0
+27,Lower Dibang Valley,22.0
+28,Lower Dibang Valley,0.0
+29,Lower Subansiri,255.0
+30,Namsai,573.0
+31,Papum Pare,1306.0
+32,Tawang,190.0
+33,Tirap,181.0
+34,Upper Siang,0.0
+35,Upper Subansiri,0.0
+36,West Kameng,530.0
+37,West Siang,142.0
+38,Baksa,706.0
+39,Barpeta,2685.0
+40,Bongaigaon,1836.0
+41,Cachar,7772.0
+42,Chirang,2986.0
+43,Darrang,2483.0
+44,Dhemaji,196.0
+45,Dhubri,2249.0
+46,Dibrugarh,41001.0
+47,Dima Hasao,1317.0
+48,Goalpara,3349.0
+49,Golaghat,10181.0
+50,Hailakandi,2669.0
+51,Jorhat,7993.0
+52,Kamrup,9549.0
+53,Kamrup Metropolitan,11052.0
+54,Karbi Anglong,4230.0
+55,Karimganj,4473.0
+56,Kokrajhar,3861.0
+57,Lakhimpur,1170.0
+58,Morigaon,3238.0
+59,Nagaon,11007.0
+60,Nalbari,2007.0
+61,Sivasagar,21174.0
+62,Sonitpur,7417.0
+63,Tinsukia,18070.0
+64,Udalguri,2911.0
+65,Araria,1913.0
+66,Arwal,0.0
+67,Aurangabad,1983.0
+68,Banka,1005.0
+69,Begusarai,6202.0
+70,Bhagalpur,8718.0
+71,Bhojpur,1464.0
+72,Buxar,1817.0
+73,Darbhanga,2852.0
+74,Gaya,4804.0
+75,Gopalganj,2652.0
+76,Jamui,632.0
+77,Jehanabad,714.0
+78,Kaimur,3351.0
+79,Katihar,2856.0
+80,Khagaria,1151.0
+81,Kishanganj,1424.0
+82,Lakhisarai,1007.0
+83,Madhepura,1037.0
+84,Madhubani,1599.0
+85,Munger,2888.0
+86,Muzaffarpur,6098.0
+87,Nalanda,3909.0
+88,Nawada,2042.0
+89,Pashchim Champaran,2131.0
+90,Patna,18012.0
+91,Purba Champaran,3236.0
+92,Purnia,5107.0
+93,Rohtas,5242.0
+94,Saharsa,1179.0
+95,Samastipur,2588.0
+96,Saran,2928.0
+97,Sheikhpura,539.0
+98,Sheohar,137.0
+99,Sitamarhi,1306.0
+100,Siwan,1623.0
+101,Supaul,1560.0
+102,Vaishali,3477.0
+103,Chandigarh,8632.0
+104,Balod,7696.0
+105,Baloda Bazar,13027.0
+106,Balrampur,462.0
+107,Bastar,2289.0
+108,Bemetara,5935.0
+109,Bijapur,143.0
+110,Bilaspur,16157.0
+111,Dantewada,2453.0
+112,Dhamtari,8889.0
+113,Durg,29350.0
+114,Gariaband,1195.0
+115,Janjgir-Champa,11726.0
+116,Jashpur,1159.0
+117,Kabeerdham,1855.0
+118,Kondagaon,610.0
+119,Korba,16233.0
+120,Koriya,6414.0
+121,Mahasamund,7972.0
+122,Mungeli,2918.0
+123,Narayanpur,231.0
+124,Raigarh,10155.0
+125,Raipur,27859.0
+126,Rajnandgaon,11929.0
+127,Sukma,322.0
+128,Surajpur,4479.0
+129,Surguja,2571.0
+130,Uttar Bastar Kanker,2485.0
+131,Dadra and Nagar Haveli,4024.0
+132,Daman,2597.0
+133,Diu,658.0
+134,North Goa,15916.0
+135,South Goa,11810.0
+136,Ahmadabad,69205.0
+137,Amreli,48992.0
+138,Anand,28728.0
+139,Aravalli,15958.0
+140,Banas Kantha,49324.0
+141,Bharuch,72333.0
+142,Bhavnagar,49486.0
+143,Botad,13240.0
+144,Chhota Udaipur,8812.0
+145,Dahod,8470.0
+146,Devbhumi Dwarka,22462.0
+147,Gandhinagar,34489.0
+148,Gir Somnath,22578.0
+149,Jamnagar,45787.0
+150,Junagadh,58675.0
+151,Kachchh,58091.0
+152,Kheda,30653.0
+153,Mahesana,57414.0
+154,Mahisagar,5931.0
+155,Morbi,35157.0
+156,Narmada,5821.0
+157,Navsari,17389.0
+158,Panch Mahals,15548.0
+159,Patan,25183.0
+160,Porbandar,19058.0
+161,Rajkot,70530.0
+162,Sabar Kantha,25835.0
+163,Surat,62058.0
+164,Surendranagar,44160.0
+165,Tapi,11821.0
+166,The Dangs,610.0
+167,Vadodara,50903.0
+168,Valsad,21971.0
+169,Ambala,31284.0
+170,Bhiwani,41363.0
+171,Faridabad,26240.0
+172,Fatehabad,31985.0
+173,Gurgaon,29606.0
+174,Hisar,43762.0
+175,Jhajjar,22361.0
+176,Jind,30345.0
+177,Kaithal,29459.0
+178,Karnal,45637.0
+179,Kurukshetra,32967.0
+180,Mahendragarh,19184.0
+181,Mewat,10099.0
+182,Palwal,11013.0
+183,Panchkula,9646.0
+184,Panipat,24703.0
+185,Rewari,17316.0
+186,Rohtak,17132.0
+187,Sirsa,42707.0
+188,Sonipat,28640.0
+189,Yamunanagar,20059.0
+190,Bilaspur,6280.0
+191,Chamba,1479.0
+192,Hamirpur,3574.0
+193,Kangra,11825.0
+194,Kinnaur,568.0
+195,Kinnaur,0.0
+196,Kinnaur,0.0
+197,Kullu,2030.0
+198,Lahul & Spiti,0.0
+199,Lahul & Spiti,0.0
+200,Mandi,4391.0
+201,Shimla,4559.0
+202,Sirmaur,4413.0
+203,Solan,10909.0
+204,Una,6835.0
+205,Anantnag,202.0
+206,Badgam,1558.0
+207,Bandipore,0.0
+208,Baramulla,620.0
+209,Doda,560.0
+210,Ganderbal,182.0
+211,Jammu,28952.0
+212,Kargil,114.0
+213,Kathua,9888.0
+214,Kishtwar,1470.0
+215,Kulgam,20.0
+216,Kupwara,0.0
+217,Leh (Ladakh),552.0
+218,Poonch,208.0
+219,Pulwama,539.0
+220,Rajouri,1288.0
+221,Ramban,185.0
+222,Reasi,2476.0
+223,Samba,7655.0
+224,Shupiyan,32.0
+225,Srinagar,5240.0
+226,Udhampur,4306.0
+227,Bokaro,22048.0
+228,Chatra,1234.0
+229,Deoghar,2528.0
+230,Dhanbad,30909.0
+231,Dumka,830.0
+232,Garhwa,670.0
+233,Giridih,2902.0
+234,Godda,2708.0
+235,Gumla,284.0
+236,Hazaribagh,5490.0
+237,Jamtara,1493.0
+238,Khunti,527.0
+239,Kodarma,1233.0
+240,Latehar,309.0
+241,Lohardaga,392.0
+242,Pakur,730.0
+243,Palamu,1294.0
+244,Pashchimi Singhbhum,4308.0
+245,Purbi Singhbhum,13508.0
+246,Ramgarh,12497.0
+247,Ranchi,11868.0
+248,Sahibganj,733.0
+249,Saraikela-kharsawan,6335.0
+250,Simdega,358.0
+251,Bagalkot,29918.0
+252,Bangalore,62660.0
+253,Bangalore Rural,21747.0
+254,Belgaum,59323.0
+255,Bellary,37043.0
+256,Bidar,26263.0
+257,Bijapur,28835.0
+258,Chamrajnagar,13442.0
+259,Chikballapura,24460.0
+260,Chikmagalur,9377.0
+261,Chitradurga,23194.0
+262,Dakshina Kannada,18582.0
+263,Davanagere,22515.0
+264,Dharwad,18536.0
+265,Gadag,11383.0
+266,Gulbarga,40646.0
+267,Hassan,19893.0
+268,Haveri,18801.0
+269,Kodagu,4157.0
+270,Kolar,28048.0
+271,Koppal,25591.0
+272,Mandya,25863.0
+273,Mysore,27740.0
+274,Raichur,30551.0
+275,Ramanagara,20531.0
+276,Shimoga,9754.0
+277,Tumkur,51848.0
+278,Udupi,10867.0
+279,Uttara Kannada,11538.0
+280,Yadgir,12329.0
+281,Alappuzha,15796.0
+282,Ernakulam,34500.0
+283,Idukki,8079.0
+284,Kannur,11576.0
+285,Kasaragod,6001.0
+286,Kollam,18774.0
+287,Kottayam,16596.0
+288,Kozhikode,13944.0
+289,Malappuram,13941.0
+290,Palakkad,21712.0
+291,Pathanamthitta,11005.0
+292,Thiruvananthapuram,20266.0
+293,Thrissur,23878.0
+294,Wayanad,5626.0
+295,Lakshadweep,143.0
+296,Agar Malwa,8384.0
+297,Alirajpur,4477.0
+298,Anuppur,7236.0
+299,Ashoknagar,4199.0
+300,Balaghat,8050.0
+301,Barwani,15504.0
+302,Betul,11163.0
+303,Bhind,18569.0
+304,Bhopal,23165.0
+305,Burhanpur,8382.0
+306,Chhatarpur,17518.0
+307,Chhindwara,16874.0
+308,Damoh,13831.0
+309,Datia,13984.0
+310,Dewas,32777.0
+311,Dhar,44372.0
+312,Dindori,710.0
+313,East Nimar,18152.0
+314,Guna,14810.0
+315,Gwalior,28265.0
+316,Harda,11507.0
+317,Hoshangabad,20036.0
+318,Indore,45364.0
+319,Jabalpur,24329.0
+320,Jhabua,10924.0
+321,Katni,15078.0
+322,Mandla,4850.0
+323,Mandsaur,28169.0
+324,Morena,17435.0
+325,Narsimhapur,18605.0
+326,Neemuch,19129.0
+327,Panna,4807.0
+328,Raisen,14538.0
+329,Rajgarh,22376.0
+330,Ratlam,27184.0
+331,Rewa,17818.0
+332,Sagar,21708.0
+333,Satna,24862.0
+334,Sehore,18502.0
+335,Seoni,5082.0
+336,Shahdol,8725.0
+337,Shajapur,19233.0
+338,Sheopur,5202.0
+339,Shivpuri,15581.0
+340,Sidhi,4877.0
+341,Singrauli,12696.0
+342,Tikamgarh,16431.0
+343,Ujjain,43824.0
+344,Umaria,2408.0
+345,Vidisha,7851.0
+346,West Nimar,33286.0
+347,Ahmadnagar,112000.0
+348,Akola,31197.0
+349,Amravati,49374.0
+350,Aurangabad,59446.0
+351,Bhandara,19385.0
+352,Bid,54249.0
+353,Buldana,42423.0
+354,Chandrapur,41291.0
+355,Dhule,32682.0
+356,Garhchiroli,10701.0
+357,Gondiya,11057.0
+358,Hingoli,16738.0
+359,Jalgaon,72063.0
+360,Jalna,29417.0
+361,Kolhapur,48094.0
+362,Latur,40693.0
+363,Mumbai City,5287.0
+364,Mumbai Suburban,27341.0
+365,Nagpur,60320.0
+366,Nanded,40242.0
+367,Nandurbar,20714.0
+368,Nashik,133570.0
+369,Osmanabad,40800.0
+370,Palghar,32706.0
+371,Parbhani,29807.0
+372,Pune,150816.0
+373,Raigarh,60149.0
+374,Ratnagiri,21076.0
+375,Sangli,53118.0
+376,Satara,60393.0
+377,Sindhudurg,10885.0
+378,Solapur,108332.0
+379,Thane,56857.0
+380,Wardha,25667.0
+381,Washim,16999.0
+382,Yavatmal,45682.0
+383,Bishnupur,1498.0
+384,Chandel,254.0
+385,Churachandpur,1097.0
+386,Imphal East,3112.0
+387,Imphal West,4804.0
+388,Senapati,960.0
+389,Tamenglong,173.0
+390,Thoubal,2059.0
+391,Ukhrul,366.0
+392,East Garo Hills,902.0
+393,East Khasi Hills,6055.0
+394,Jaintia Hills,1735.0
+395,North Garo Hills,684.0
+396,Ri Bhoi,2186.0
+397,South Garo Hills,495.0
+398,South West Garo Hills,479.0
+399,South West Khasi Hills,235.0
+400,West Garo Hills,2265.0
+401,West Khasi Hills,541.0
+402,Aizawl,2599.0
+403,Champhai,245.0
+404,Kolasib,325.0
+405,Lawangtlai,206.0
+406,Lunglei,638.0
+407,Mamit,262.0
+408,Saiha,166.0
+409,Serchhip,341.0
+410,Dimapur,3010.0
+411,Kiphire,0.0
+412,Kohima,1455.0
+413,Longleng,77.0
+414,Mokokchung,558.0
+415,Mon,242.0
+416,Peren,208.0
+417,Phek,164.0
+418,Tuensang,0.0
+419,Wokha,727.0
+420,Zunheboto,140.0
+421,West,95142.0
+422,Anugul,18889.0
+423,Balangir,6059.0
+424,Baleshwar,10934.0
+425,Bargarh,7704.0
+426,Bauda,460.0
+427,Bhadrak,5361.0
+428,Cuttack,21794.0
+429,Debagarh,382.0
+430,Dhenkanal,8264.0
+431,Gajapati,1606.0
+432,Ganjam,17844.0
+433,Jagatsinghapur,8116.0
+434,Jajapur,9759.0
+435,Jharsuguda,8960.0
+436,Kalahandi,3564.0
+437,Kandhamal,1378.0
+438,Kendrapara,6197.0
+439,Kendujhar,9307.0
+440,Khordha,15883.0
+441,Koraput,7036.0
+442,Malkangiri,1480.0
+443,Mayurbhanj,6873.0
+444,Nabarangapur,1674.0
+445,Nayagarh,3574.0
+446,Nuapada,1564.0
+447,Puri,8853.0
+448,Rayagada,3245.0
+449,Sambalpur,8889.0
+450,Subarnapur,1290.0
+451,Sundargarh,19249.0
+452,Karaikal,3802.0
+453,Mahe,636.0
+454,Puducherry,4429.0
+455,Yanam,308.0
+456,Amritsar,51874.0
+457,Barnala,20314.0
+458,Bathinda,45250.0
+459,Faridkot,20403.0
+460,Fatehgarh Sahib,20182.0
+461,Fazilka,35617.0
+462,Firozpur,36813.0
+463,Gurdaspur,43236.0
+464,Hoshiarpur,34674.0
+465,Jalandhar,52031.0
+466,Kapurthala,24181.0
+467,Ludhiana,75046.0
+468,Mansa,23402.0
+469,Moga,33862.0
+470,Muktsar,31379.0
+471,Pathankot,13404.0
+472,Patiala,58035.0
+473,Rupnagar,16924.0
+474,Sahibzada Ajit Singh Nagar,23586.0
+475,Sangrur,53297.0
+476,Shahid Bhagat Singh Nagar,17534.0
+477,Tarn Taran,36959.0
+478,Ajmer,35048.0
+479,Alwar,48838.0
+480,Banswara,10127.0
+481,Baran,15638.0
+482,Barmer,18046.0
+483,Bharatpur,31139.0
+484,Bhilwara,25298.0
+485,Bikaner,33852.0
+486,Bundi,18754.0
+487,Chittaurgarh,27185.0
+488,Churu,45780.0
+489,Dausa,21571.0
+490,Dhaulpur,6195.0
+491,Dungarpur,8730.0
+492,Ganganagar,76566.0
+493,Hanumangarh,40770.0
+494,Jaipur,96783.0
+495,Jaisalmer,10039.0
+496,Jalor,19368.0
+497,Jhalawar,17183.0
+498,Jhunjhunun,49829.0
+499,Jodhpur,50880.0
+500,Karauli,11580.0
+501,Kota,37734.0
+502,Nagaur,59003.0
+503,Pali,40984.0
+504,Pratapgarh,7566.0
+505,Rajsamand,21868.0
+506,Sawai Madhopur,10263.0
+507,Sikar,59862.0
+508,Sirohi,18848.0
+509,Tonk,8756.0
+510,Udaipur,32672.0
+511,East Sikkim,1925.0
+512,North Sikkim,0.0
+513,South Sikkim,722.0
+514,West Sikkim,477.0
+515,Ariyalur,10706.0
+516,Chennai,14571.0
+517,Coimbatore,40270.0
+518,Cuddalore,35693.0
+519,Dharmapuri,19437.0
+520,Dindigul,32030.0
+521,Erode,41383.0
+522,Kancheepuram,53735.0
+523,Kanniyakumari,12760.0
+524,Karur,19785.0
+525,Krishnagiri,22272.0
+526,Madurai,30150.0
+527,Nagappattinam,19223.0
+528,Namakkal,34922.0
+529,Perambalur,8387.0
+530,Pudukkottai,26874.0
+531,Ramanathapuram,17604.0
+532,Salem,54098.0
+533,Sivaganga,23455.0
+534,Thanjavur,29091.0
+535,The Nilgiris,8214.0
+536,Theni,12663.0
+537,Thiruvallur,46549.0
+538,Thiruvarur,20779.0
+539,Thoothukkudi,32313.0
+540,Tiruchirappalli,37190.0
+541,Tirunelveli,44893.0
+542,Tiruppur,51409.0
+543,Tiruvannamalai,29918.0
+544,Vellore,49316.0
+545,Viluppuram,46544.0
+546,Virudunagar,29371.0
+547,Adilabad,43189.0
+548,Hyderabad,13381.0
+549,Karimnagar,80482.0
+550,Khammam,44580.0
+551,Mahbubnagar,71382.0
+552,Medak,60511.0
+553,Nalgonda,71246.0
+554,Nizamabad,50474.0
+555,Ranga Reddy,82534.0
+556,Warangal,55976.0
+557,Dhalai,1405.0
+558,Gomati,1991.0
+559,Khowai,2008.0
+560,North Tripura,2077.0
+561,Sipahijala,5037.0
+562,South Tripura,1946.0
+563,Unokoti,1791.0
+564,West Tripura,8755.0
+565,Agra,21835.0
+566,Aligarh,21034.0
+567,Allahabad,26683.0
+568,Ambedkar Nagar,7936.0
+569,Amethi,16062.0
+570,Amroha,8659.0
+571,Auraiya,5424.0
+572,Azamgarh,9664.0
+573,Baghpat,8744.0
+574,Bahraich,1924.0
+575,Ballia,5160.0
+576,Balrampur,2982.0
+577,Banda,5080.0
+578,Barabanki,8025.0
+579,Bareilly,18113.0
+580,Basti,7896.0
+581,Bijnor,17228.0
+582,Budaun,4649.0
+583,Bulandshahr,15780.0
+584,Chandauli,7241.0
+585,Chitrakoot,2542.0
+586,Deoria,4925.0
+587,Etah,2981.0
+588,Etawah,6376.0
+589,Faizabad,13282.0
+590,Farrukhabad,6262.0
+591,Fatehpur,5742.0
+592,Firozabad,19446.0
+593,Gautam Buddha Nagar,23762.0
+594,Ghaziabad,19617.0
+595,Ghazipur,7957.0
+596,Gonda,7266.0
+597,Gorakhpur,15442.0
+598,Hamirpur,5330.0
+599,Hapur,11657.0
+600,Hardoi,5500.0
+601,Hathras,8733.0
+602,Jalaun,8492.0
+603,Jaunpur,11393.0
+604,Jhansi,16935.0
+605,Kannauj,2237.0
+606,Kanpur Dehat,6921.0
+607,Kanpur Nagar,26073.0
+608,Kasganj,1727.0
+609,Kaushambi,14791.0
+610,Kushinagar,8726.0
+611,Lakhimpur Kheri,9319.0
+612,Lalitpur,3361.0
+613,Lucknow,33167.0
+614,Maharajganj,3315.0
+615,Mahoba,3274.0
+616,Mainpuri,4801.0
+617,Mathura,24176.0
+618,Mau,7914.0
+619,Meerut,29549.0
+620,Mirzapur,12655.0
+621,Moradabad,11287.0
+622,Muzaffarnagar,14202.0
+623,Pilibhit,3096.0
+624,Pratapgarh,17873.0
+625,Rae Bareli,11650.0
+626,Rampur,10076.0
+627,Saharanpur,15251.0
+628,Sambhal,7047.0
+629,Sant Kabir Nagar,2841.0
+630,Sant Ravi Das Nagar,8516.0
+631,Shahjahanpur,7831.0
+632,Shamli,4919.0
+633,Shravasti,2652.0
+634,Siddharth Nagar,1752.0
+635,Sitapur,5615.0
+636,Sonbhadra,15142.0
+637,Sultanpur,11343.0
+638,Unnao,8459.0
+639,Varanasi,21135.0
+640,Almora,1936.0
+641,Bageshwar,273.0
+642,Chamoli,353.0
+643,Chamoli,0.0
+644,Champawat,35.0
+645,Dehradun,17551.0
+646,Garhwal,4758.0
+647,Hardwar,10255.0
+648,Nainital,7981.0
+649,Pithoragarh,986.0
+650,Pithoragarh,0.0
+651,Rudraprayag,15.0
+652,Tehri Garhwal,2796.0
+653,Udham Singh Nagar,25804.0
+654,Uttarkashi,478.0
+655,Uttarkashi,0.0
+656,Alipurduar,6935.0
+657,Bankura,23250.0
+658,Barddhaman,73658.0
+659,Birbhum,23052.0
+660,Dakshin Dinajpur,4453.0
+661,Darjiling,12011.0
+662,Haora,22275.0
+663,Hugli,40247.0
+664,Jalpaiguri,11777.0
+665,Koch Bihar,8243.0
+666,Kolkata,7439.0
+667,Maldah,12332.0
+668,Murshidabad,19658.0
+669,Nadia,31408.0
+670,North 24 Parganas,43494.0
+671,Pashchim Medinipur,18936.0
+672,Purba Medinipur,15304.0
+673,Puruliya,10930.0
+674,South 24 Parganas,34555.0
+675,Uttar Dinajpur,8878.0
