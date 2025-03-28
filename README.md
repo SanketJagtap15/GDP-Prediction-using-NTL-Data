@@ -17,21 +17,6 @@ This project explores the use of satellite-based **Nighttime Light (NTL) data** 
 ## Conclusion
 The study confirms that **Nighttime Light (NTL) data is a reliable proxy for economic activity** and can significantly improve GDP estimation in data-scarce regions. The approach provides a scalable and efficient solution for economic analysis using remote sensing and AI.
 
-## Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/gdp-prediction-ntl.git
-   cd gdp-prediction-ntl
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the main script:
-   ```sh
-   python main.py
-   ```
-
 ## Technologies Used
 - **Python** (NumPy, Pandas, Scikit-learn, TensorFlow, XGBoost)
 - **Satellite Data Processing** (VIIRS Nighttime Light Data)
